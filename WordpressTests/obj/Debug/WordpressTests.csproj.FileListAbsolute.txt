@@ -1,0 +1,11 @@
+E:\Programming\C#\WordpressAutomation\WordpressTests\bin\Debug\WordpressTests.dll
+E:\Programming\C#\WordpressAutomation\WordpressTests\bin\Debug\WordpressTests.pdb
+E:\Programming\C#\WordpressAutomation\WordpressTests\bin\Debug\WordpressAutomation.dll
+E:\Programming\C#\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.dll
+E:\Programming\C#\WordpressAutomation\WordpressTests\bin\Debug\WordpressAutomation.pdb
+E:\Programming\C#\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.xml
+E:\Programming\C#\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.csprojResolveAssemblyReference.cache
+E:\Programming\C#\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.dll
+E:\Programming\C#\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.pdb
+E:\Programming\C#\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.Support.dll
+E:\Programming\C#\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.Support.xml
